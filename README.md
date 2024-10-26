@@ -1,4 +1,12 @@
-## Bem-vindo(a) ao perfil do WillMikeMW3 😁
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    ## Bem-vindo(a) ao perfil do WillMikeMW3 😁
 
 <div>
   <a href="https://github.com/willmikemw3">
@@ -19,5 +27,8 @@
  
 <div>
 
-  <a style="text-align:center;" href="https://www.linkedin.com/in/michael-william-83b056321/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a style="display: block; text-align: center;align-items: center; " href="https://www.linkedin.com/in/michael-william-83b056321/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+</body>
+</html>
